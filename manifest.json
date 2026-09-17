@@ -1,42 +1,50 @@
 [
-  {
-    "guid": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-    "name": "Web Channel Collections",
-    "owner": "OK",
-    "category": "General",
-    "versions": [
-      {
-        "version": "0.4.0.0",
-        "changelog": "Add deno as managed dependency for full YouTube format extraction",
-        "targetAbi": "10.10.0.0",
-        "sourceUrl": "https://github.com/okdewit/jelly-webcollection/releases/download/v0.4.0.0/web-channel-collections-0.4.0.0.zip",
-        "checksum": "4899c85d58b31230d4e91d2228a0181e",
-        "timestamp": "2026-03-18T00:00:00Z"
-      },
-      {
-        "version": "0.3.0.0",
-        "changelog": "Alpha",
-        "targetAbi": "10.10.0.0",
-        "sourceUrl": "https://github.com/okdewit/jelly-webcollection/releases/download/v0.3.0.0/web-channel-collections-0.3.0.0.zip",
-        "checksum": "bb2e530787472fa2d2473a77158c2e83",
-        "timestamp": "2026-03-10T00:00:00Z"
-      },
-      {
-        "version": "0.2.0.0",
-        "changelog": "Alpha",
-        "targetAbi": "10.10.0.0",
-        "sourceUrl": "https://github.com/okdewit/jelly-webcollection/releases/download/v0.2.0.0/web-channel-collections-0.2.0.0.zip",
-        "checksum": "aaa5bc0cd9451b879f1d50260f87c80d",
-        "timestamp": "2026-03-10T00:00:00Z"
-      },
-      {
-        "version": "0.1.0.0",
-        "changelog": "Initial beta",
-        "targetAbi": "10.10.0.0",
-        "sourceUrl": "https://github.com/okdewit/jelly-webcollection/releases/download/v0.1.0.0/web-channel-collections-0.1.0.0.zip",
-        "checksum": "ae0cdbb19800e88b61ae16c1549b1b6d",
-        "timestamp": "2026-03-09T00:00:00Z"
-      }
-    ]
-  }
+    {
+        "guid": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+        "name": "Web Channel Collections",
+        "owner": "OK",
+        "category": "General",
+        "versions": [
+            {
+                "version": "0.5.0.0",
+                "changelog": "Fix version reporting",
+                "targetAbi": "10.10.0.0",
+                "sourceUrl": "https://github.com/okdewit/jelly-webcollection/releases/download/v0.5.0.0/web-channel-collections-0.5.0.0.zip",
+                "checksum": "1d20fd51e455b121f6f064c3d6456420",
+                "timestamp": "2026-09-17T20:34:17Z"
+            },
+            {
+                "version": "0.4.0.0",
+                "changelog": "Add deno as managed dependency for full YouTube format extraction",
+                "targetAbi": "10.10.0.0",
+                "sourceUrl": "https://github.com/okdewit/jelly-webcollection/releases/download/v0.4.0.0/web-channel-collections-0.4.0.0.zip",
+                "checksum": "4899c85d58b31230d4e91d2228a0181e",
+                "timestamp": "2026-03-18T00:00:00Z"
+            },
+            {
+                "version": "0.3.0.0",
+                "changelog": "Alpha",
+                "targetAbi": "10.10.0.0",
+                "sourceUrl": "https://github.com/okdewit/jelly-webcollection/releases/download/v0.3.0.0/web-channel-collections-0.3.0.0.zip",
+                "checksum": "bb2e530787472fa2d2473a77158c2e83",
+                "timestamp": "2026-03-10T00:00:00Z"
+            },
+            {
+                "version": "0.2.0.0",
+                "changelog": "Alpha",
+                "targetAbi": "10.10.0.0",
+                "sourceUrl": "https://github.com/okdewit/jelly-webcollection/releases/download/v0.2.0.0/web-channel-collections-0.2.0.0.zip",
+                "checksum": "aaa5bc0cd9451b879f1d50260f87c80d",
+                "timestamp": "2026-03-10T00:00:00Z"
+            },
+            {
+                "version": "0.1.0.0",
+                "changelog": "Initial beta",
+                "targetAbi": "10.10.0.0",
+                "sourceUrl": "https://github.com/okdewit/jelly-webcollection/releases/download/v0.1.0.0/web-channel-collections-0.1.0.0.zip",
+                "checksum": "ae0cdbb19800e88b61ae16c1549b1b6d",
+                "timestamp": "2026-03-09T00:00:00Z"
+            }
+        ]
+    }
 ]
